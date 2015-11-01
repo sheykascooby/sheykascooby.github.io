@@ -58,9 +58,10 @@
 .neighborhood-guides p {
     font-size: 40px
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0 auto;
-    width: 500px; 
-    max-width: 500px; 
+    margin-top:50px;
+    margin-bottom: 50px;
+    width: 1000px; 
+    max-width: 1000px; 
 }
 
 .neighborhood-guides img {
