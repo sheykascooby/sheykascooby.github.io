@@ -1,2 +1,2 @@
-# http://whaleshark_id.github.io
+# http://sheykascooby.github.io
 WSIP website
