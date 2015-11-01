@@ -19,11 +19,11 @@
 
 .jumbotron .container {
   position: relative;
-  top:10px;
+  top:100px;
 }
 
 .jumbotron h1 {
-  color: #eee;
+  color: #fff;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
