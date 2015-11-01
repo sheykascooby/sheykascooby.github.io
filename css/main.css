@@ -17,6 +17,7 @@
 
 .jumbotron {
   background-image:url('https://goo.gl/NQOewV');
+  position:absolute;
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -56,9 +57,11 @@
 }
 
 .neighborhood-guides p {
-    font-size: 30px
+    font-size: 40px
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin-bottom: 50px
+    margin: 0 auto;
+    width: 500px; 
+    max-width: 500px; 
 }
 
 .neighborhood-guides img {
