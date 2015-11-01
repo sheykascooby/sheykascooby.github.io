@@ -34,6 +34,26 @@
   color: #fff;
 }
 
+.neighborhood-guides {
+    background-color: #efefef
+    border-bottom: 1px solid #dbdbdb
+}
+
+.neighborhood-guides h2 {
+    color: #2288AA
+    font-size: 24px
+}
+
+.neighborhood-guides p {
+    font-size: 15px
+    margin-bottom: 0px
+}
+
+.neighborhood-guides img {
+    font-size: 0px
+    margin-bottom: 0px
+}
+
 .learn-more {
   background-color: #f7f7f7;
 }
