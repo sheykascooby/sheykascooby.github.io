@@ -46,13 +46,14 @@
 
 .neighborhood-guides h2 {
     color: #393c3d
-    font-size: 20px
+    font-size: 30px
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .neighborhood-guides p {
-    font-size: 20px
-    margin-bottom: 0px
+    font-size: 30px
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 50px
 }
 
 .neighborhood-guides img {
