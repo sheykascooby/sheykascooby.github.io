@@ -1,2 +1,2 @@
-# sheykascooby.github.io
+# http://sheykascooby.github.io
 WSIP website
